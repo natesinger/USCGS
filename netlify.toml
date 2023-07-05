@@ -4,6 +4,9 @@
   functions = "netlify/functions"
   publish = "dist"
 
+[build.environment]
+  FORCE_NPM_INSTALL = "--force"
+
 [[redirects]]
   from = "/"
   to = "/home.html"
