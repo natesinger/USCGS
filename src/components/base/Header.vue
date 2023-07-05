@@ -156,7 +156,6 @@ export default {
           text-decoration: none;
           color: $color-dark-1;
           font-size: 18px;
-          font-weight: 600;
         }
       }
     }
@@ -177,6 +176,10 @@ export default {
 
       a {
         color: $color-lightbrown-3;
+      }
+
+      a:hover {
+        color: $color-lightbrown-5;
       }
     }
   }
