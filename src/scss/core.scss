@@ -17,18 +17,18 @@
 }
 
 a:link {
-    color: $color-yellow-3;
+    // color: $color-yellow-3;
     text-decoration: none;
 }
 a:visited {
-    color: $color-yellow-5;
+    // color: $color-yellow-5;
 }
 a:active {
     // color: $color-charcoal-1;
 }
 a:hover {
     text-decoration: underline;
-    color: $color-yellow-1;
+    // color: $color-yellow-1;
     transition: 200ms;
     cursor: pointer;
 }

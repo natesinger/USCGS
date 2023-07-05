@@ -27,7 +27,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: $color-light-3;
+  background-color: $color-darkgreen-1;
 }
 
 .background {

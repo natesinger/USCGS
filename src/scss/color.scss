@@ -1,46 +1,59 @@
 /*
   Primary Site Theme
-  - color 1 is the lightest
+  - color 1 is the darkest
   - color three is the core
-  - color 5 is the darkest
-
-  https://coolors.co/1e1e21-121f40-ad121b-ffd95c-00f7e7-de21e3-f8f8f8
+  - color 5 is the lightest
 */
 
-/* https://coolors.co/131315-19191b-1e1e21-27272c-303036 */
-$color-dark-1: #303036;
-$color-dark-2: #27272C;
-$color-dark-3: #1E1E21;
-$color-dark-4: #19191B;
-$color-dark-5: #131315;
+/* https://coolors.co/606c38-283618-fefae0-2c2c2c-dda15e-aa6122 */
+$color-core-lightgreen: #606C38;
+$color-core-darkgreen: #283618;
+$color-core-lightbrown: #DDA15E;
+$color-core-darkbrown: #AA6122;
+$color-core-light: #FEFAE0;
+$color-core-dark: #2C2C2C;
 
-/* https://coolors.co/8d1291-b61aba-de21e3-e448e8-e65ceb */
-$color-neonpurple-1: #E65CEB;
-$color-neonpurple-2: #E448E8;
-$color-neonpurple-3: #DE21E3;
-$color-neonpurple-4: #B61ABA;
-$color-neonpurple-5: #8D1291;
+/* https://coolors.co/fff5b6-fff8cb-fefae0-fffcea-fffdf3 */
+$color-light-1: #fff5b6;
+$color-light-2: #fff8cb;
+$color-light-3: #fefae0;
+$color-light-4: #fffcea;
+$color-light-5: #fffdf3;
 
-/* https://coolors.co/07ddd8-04eae0-00f7e7-43fbef-85fff7 */
-$color-neonblue-1: #85fff7;
-$color-neonblue-2: #43fbef;
-$color-neonblue-3: #00f7e7;
-$color-neonblue-4: #04eae0;
-$color-neonblue-5: #07ddd8;
+/* https://coolors.co/1f1f1f-292929-2c2c2c-3d3d3d-474747*/
+$color-dark-1: #1f1f1f;
+$color-dark-2: #292929;
+$color-dark-3: #2C2C2C;
+$color-dark-4: #3d3d3d;
+$color-dark-5: #474747;
 
-/* https://coolors.co/090f20-0e1730-121f40-243e80-365dbf */
-$color-blue-1: #365DBF;
-$color-blue-2: #243E80;
-$color-blue-3: #121F40;
-$color-blue-4: #0E1730;
-$color-blue-5: #090F20;
+/* https://coolors.co/48512a-545e31-606c38-6b793e-6b793e */
+$color-lightgreen-1: #48512a;
+$color-lightgreen-2: #545e31;
+$color-lightgreen-3: #606C38;
+$color-lightgreen-4: #6b793e;
+$color-lightgreen-5: #6b793e;
 
-/* https://coolors.co/ffc60a-ffcf33-ffd95c-ffe285-ffecad */
-$color-yellow-1: #ffecad;
-$color-yellow-2: #ffe285;
-$color-yellow-3: #ffd95c;
-$color-yellow-4: #ffcf33;
-$color-yellow-5: #ffc60a;
+/* https://coolors.co/151c0d-1f2a13-283618-344620-344620 */
+$color-darkgreen-1: #151c0d;
+$color-darkgreen-2: #1f2a13;
+$color-darkgreen-3: #283618;
+$color-darkgreen-4: #344620;
+$color-darkgreen-5: #344620;
+
+/* https://coolors.co/d89446-db9d57-dda15e-e2b178-e6bb89 */
+$color-lightbrown-1: #d89446;
+$color-lightbrown-2: #db9d57;
+$color-lightbrown-3: #dda15e;
+$color-lightbrown-4: #e2b178;
+$color-lightbrown-5: #e6bb89;
+
+/* https://coolors.co/884e1b-99581e-aa6122-bb6b25-cc7528 */
+$color-darkbrown-1: #884e1b;
+$color-darkbrown-2: #99581e;
+$color-darkbrown-3: #aa6122;
+$color-darkbrown-4: #bb6b25;
+$color-darkbrown-5: #cc7528;
 
 /* https://coolors.co/880112-9b0a17-ad121b-ce3032-d93d3c */
 $color-red-1: #D93D3C;
@@ -48,13 +61,6 @@ $color-red-2: #CE3032;
 $color-red-3: #AD121B;
 $color-red-4: #9B0A17;
 $color-red-5: #880112;
-
-/* https://coolors.co/ebebeb-f5f5f5-f8f8f8-fafafa-ffffff */
-$color-light-1: #FFFFFF;
-$color-light-2: #FAFAFA;
-$color-light-3: #F8F8F8;
-$color-light-4: #F5F5F5;
-$color-light-5: #EBEBEB;
 
 /* https://coolors.co/e63946-2b9449 */
 $color-pass: #2B9449;

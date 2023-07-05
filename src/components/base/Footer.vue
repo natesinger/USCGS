@@ -22,7 +22,7 @@ export default {
   align-items: end;
 
   .copyright {
-    color: $color-dark-3;
+    color: $color-lightbrown-3;
     font-size: 16px;
     text-align: center;
     font-weight: 300;
