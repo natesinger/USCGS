@@ -18,6 +18,7 @@
     "@vue/cli-plugin-vuex": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
     "@vue/eslint-config-airbnb": "^6.0.0",
+    "@webassemblyjs/wast-printer": "^1.11.6",
     "copy-webpack-plugin": "^11.0.0",
     "eslint": "^7.32.0",
     "eslint-plugin-import": "^2.25.3",
